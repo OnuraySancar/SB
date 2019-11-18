@@ -1,0 +1,622 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.1)  18 NOV 2019 18:48
+entering extended mode
+**./SB.tex
+(SB.tex
+LaTeX2e <2018-12-01>
+(D:\LATEX\tex/latex/base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(D:\LATEX\tex/latex/base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (D:\LATEX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(D:\LATEX\tex/generic/babel\babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+ (D:\LATEX\tex/generic/babel\switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\LATEX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\LATEX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(D:\LATEX\tex/generic/babel\babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+ (D:\LATEX\tex/generic/babel\txtbabel.def)
+\bbl@dirlevel=\count89
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (D:\LATEX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(D:\LATEX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (D:\LATEX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen104
+)) (D:\LATEX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(D:\LATEX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(D:\LATEX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(D:\LATEX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(D:\LATEX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\LATEX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(D:\LATEX\tex/latex/graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (D:\LATEX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\LATEX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(D:\LATEX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(D:\LATEX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks22
+\float@box=\box29
+\@float@everytoks=\toks23
+\@floatcapt=\box30
+) (D:\LATEX\tex/latex/caption\subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+(D:\LATEX\tex/latex/caption\caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(D:\LATEX\tex/latex/caption\caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@caption@flags=\count103
+\c@ContinuedFloat=\count104
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count105
+\c@subtable=\count106
+) (SB.aux)
+\openout1 = `SB.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(D:\LATEX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen122
+\scratchbox=\box31
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen123
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks25
+) (D:\LATEX\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\LATEX\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\LATEX\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\LATEX\tex/generic/oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(D:\LATEX\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(D:\LATEX\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\LATEX\tex/generic/oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\LATEX\tex/generic/oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(D:\LATEX\tex/generic/oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(D:\LATEX\tex/generic/oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\LATEX\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+
+(D:\LATEX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+ (D:\LATEX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (1.32558pt too wide) in paragraph at lines 15--19
+\OT1/cmr/m/n/12 The pur-pose of our ex-per-i-ment is to find the fa-mous Stefan
+-Boltzman
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+<pl.png, id=1, 265.59225pt x 224.037pt>
+File: pl.png Graphic file (type png)
+<use pl.png>
+Package pdftex.def Info: pl.png  used on input line 23.
+(pdftex.def)             Requested size: 159.35657pt x 134.42322pt.
+[1
+
+{C:/Users/user/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
+
+ []
+
+[2 <./pl.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
+ (D:\LATEX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+
+Overfull \hbox (4.8755pt too wide) in paragraph at lines 57--58
+[]\OT1/cmr/bx/n/12 Radiation Sen-sor\OT1/cmr/m/n/12 : Read ra-di-a-tion is turn
+ed to volt-age through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+<table.png, id=26, 307.74976pt x 269.20575pt>
+File: table.png Graphic file (type png)
+<use table.png>
+Package pdftex.def Info: table.png  used on input line 78.
+(pdftex.def)             Requested size: 215.42336pt x 188.44272pt.
+
+Overfull \hbox (54.05618pt too wide) in paragraph at lines 83--101
+[][] 
+ []
+
+[4 <./table.png>]
+Overfull \hbox (46.66705pt too wide) in paragraph at lines 106--130
+[][] 
+ []
+
+
+Overfull \hbox (70.91733pt too wide) in paragraph at lines 135--149
+[][] 
+ []
+
+
+Overfull \hbox (70.91733pt too wide) in paragraph at lines 154--168
+[][] 
+ []
+
+[5]
+Overfull \hbox (70.91733pt too wide) in paragraph at lines 173--187
+[][] 
+ []
+
+
+Overfull \hbox (60.8978pt too wide) in paragraph at lines 192--228
+[][] 
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+
+ []
+
+Package epstopdf Info: Source file: <RR.eps>
+(epstopdf)                    date: 2019-11-18 11:15:41
+(epstopdf)                    size: 40252 bytes
+(epstopdf)             Output file: <RR-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-18 11:15:46
+(epstopdf)                    size: 13910 bytes
+(epstopdf)             Command: <epstopdf --outfile=RR-eps-converted-to.pdf RR.
+eps>
+(epstopdf)             \includegraphics on input line 251.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./RR-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<RR-eps-converted-to.pdf, id=40, 421.575pt x 316.18124pt>
+File: RR-eps-converted-to.pdf Graphic file (type pdf)
+<use RR-eps-converted-to.pdf>
+Package pdftex.def Info: RR-eps-converted-to.pdf  used on input line 251.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[7]
+Package epstopdf Info: Source file: <ISL.eps>
+(epstopdf)                    date: 2019-11-18 11:20:37
+(epstopdf)                    size: 56150 bytes
+(epstopdf)             Output file: <ISL-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-18 11:21:01
+(epstopdf)                    size: 14443 bytes
+(epstopdf)             Command: <epstopdf --outfile=ISL-eps-converted-to.pdf IS
+L.eps>
+(epstopdf)             \includegraphics on input line 257.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ISL-eps-converted-to.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<ISL-eps-converted-to.pdf, id=47, 421.575pt x 316.18124pt>
+File: ISL-eps-converted-to.pdf Graphic file (type pdf)
+<use ISL-eps-converted-to.pdf>
+Package pdftex.def Info: ISL-eps-converted-to.pdf  used on input line 257.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[8 <./RR-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ISLlog.eps>
+(epstopdf)                    date: 2019-11-18 11:26:18
+(epstopdf)                    size: 55357 bytes
+(epstopdf)             Output file: <ISLlog-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-18 11:32:54
+(epstopdf)                    size: 13934 bytes
+(epstopdf)             Command: <epstopdf --outfile=ISLlog-eps-converted-to.pdf
+ ISLlog.eps>
+(epstopdf)             \includegraphics on input line 263.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ISLlog-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<ISLlog-eps-converted-to.pdf, id=55, 421.575pt x 316.18124pt>
+File: ISLlog-eps-converted-to.pdf Graphic file (type pdf)
+<use ISLlog-eps-converted-to.pdf>
+Package pdftex.def Info: ISLlog-eps-converted-to.pdf  used on input line 263.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[9 <./ISL-eps-converted-to.pdf> <./ISLlog-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <d1high.eps>
+(epstopdf)                    date: 2019-11-17 23:43:40
+(epstopdf)                    size: 42743 bytes
+(epstopdf)             Output file: <d1high-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-17 23:52:26
+(epstopdf)                    size: 12687 bytes
+(epstopdf)             Command: <epstopdf --outfile=d1high-eps-converted-to.pdf
+ d1high.eps>
+(epstopdf)             \includegraphics on input line 270.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./d1high-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<d1high-eps-converted-to.pdf, id=67, 421.575pt x 316.18124pt>
+File: d1high-eps-converted-to.pdf Graphic file (type pdf)
+<use d1high-eps-converted-to.pdf>
+Package pdftex.def Info: d1high-eps-converted-to.pdf  used on input line 270.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+Package epstopdf Info: Source file: <d2high.eps>
+(epstopdf)                    date: 2019-11-17 23:48:06
+(epstopdf)                    size: 41666 bytes
+(epstopdf)             Output file: <d2high-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-17 23:52:27
+(epstopdf)                    size: 12315 bytes
+(epstopdf)             Command: <epstopdf --outfile=d2high-eps-converted-to.pdf
+ d2high.eps>
+(epstopdf)             \includegraphics on input line 277.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./d2high-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<d2high-eps-converted-to.pdf, id=68, 421.575pt x 316.18124pt>
+File: d2high-eps-converted-to.pdf Graphic file (type pdf)
+<use d2high-eps-converted-to.pdf>
+Package pdftex.def Info: d2high-eps-converted-to.pdf  used on input line 277.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[10 <./d1high-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <d3high.eps>
+(epstopdf)                    date: 2019-11-17 23:51:13
+(epstopdf)                    size: 43768 bytes
+(epstopdf)             Output file: <d3high-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-17 23:52:27
+(epstopdf)                    size: 12499 bytes
+(epstopdf)             Command: <epstopdf --outfile=d3high-eps-converted-to.pdf
+ d3high.eps>
+(epstopdf)             \includegraphics on input line 284.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./d3high-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<d3high-eps-converted-to.pdf, id=76, 421.575pt x 316.18124pt>
+File: d3high-eps-converted-to.pdf Graphic file (type pdf)
+<use d3high-eps-converted-to.pdf>
+Package pdftex.def Info: d3high-eps-converted-to.pdf  used on input line 284.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[11 <./d2high-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <lowtemp.eps>
+(epstopdf)                    date: 2019-11-17 23:41:53
+(epstopdf)                    size: 75870 bytes
+(epstopdf)             Output file: <lowtemp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-17 23:42:00
+(epstopdf)                    size: 15816 bytes
+(epstopdf)             Command: <epstopdf --outfile=lowtemp-eps-converted-to.pd
+f lowtemp.eps>
+(epstopdf)             \includegraphics on input line 295.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./lowtemp-eps-converted-to.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<lowtemp-eps-converted-to.pdf, id=84, 421.575pt x 316.18124pt>
+File: lowtemp-eps-converted-to.pdf Graphic file (type pdf)
+<use lowtemp-eps-converted-to.pdf>
+Package pdftex.def Info: lowtemp-eps-converted-to.pdf  used on input line 295.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[12 <./d3high-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 303--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
+
+ []
+
+[13 <./lowtemp-eps-converted-to.pdf>]
+Overfull \hbox (106.9649pt too wide) in paragraph at lines 310--311
+[]\OT1/cmr/m/n/12 https://pdfs.semanticscholar.org/748d/6a04e78f8dd3bdc15bdb743
+65e1a9db0667d.pdf 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--314
+
+ []
+
+Package epstopdf Info: Source file: <5notneeded.eps>
+(epstopdf)                    date: 2019-11-18 18:44:12
+(epstopdf)                    size: 20319 bytes
+(epstopdf)             Output file: <5notneeded-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-18 18:48:09
+(epstopdf)                    size: 3687 bytes
+(epstopdf)             Command: <epstopdf --outfile=5notneeded-eps-converted-to
+.pdf 5notneeded.eps>
+(epstopdf)             \includegraphics on input line 317.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./5notneeded-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<5notneeded-eps-converted-to.pdf, id=100, 421.575pt x 316.18124pt>
+File: 5notneeded-eps-converted-to.pdf Graphic file (type pdf)
+<use 5notneeded-eps-converted-to.pdf>
+Package pdftex.def Info: 5notneeded-eps-converted-to.pdf  used on input line 31
+7.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+Package epstopdf Info: Source file: <8notneeded.eps>
+(epstopdf)                    date: 2019-11-18 18:44:56
+(epstopdf)                    size: 19932 bytes
+(epstopdf)             Output file: <8notneeded-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-18 18:48:10
+(epstopdf)                    size: 3657 bytes
+(epstopdf)             Command: <epstopdf --outfile=8notneeded-eps-converted-to
+.pdf 8notneeded.eps>
+(epstopdf)             \includegraphics on input line 322.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./8notneeded-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<8notneeded-eps-converted-to.pdf, id=101, 421.575pt x 316.18124pt>
+File: 8notneeded-eps-converted-to.pdf Graphic file (type pdf)
+<use 8notneeded-eps-converted-to.pdf>
+Package pdftex.def Info: 8notneeded-eps-converted-to.pdf  used on input line 32
+2.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+Package epstopdf Info: Source file: <11notneeded.eps>
+(epstopdf)                    date: 2019-11-18 18:45:40
+(epstopdf)                    size: 16689 bytes
+(epstopdf)             Output file: <11notneeded-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-18 18:48:11
+(epstopdf)                    size: 3502 bytes
+(epstopdf)             Command: <epstopdf --outfile=11notneeded-eps-converted-t
+o.pdf 11notneeded.eps>
+(epstopdf)             \includegraphics on input line 327.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./11notneeded-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<11notneeded-eps-converted-to.pdf, id=102, 421.575pt x 316.18124pt>
+File: 11notneeded-eps-converted-to.pdf Graphic file (type pdf)
+<use 11notneeded-eps-converted-to.pdf>
+Package pdftex.def Info: 11notneeded-eps-converted-to.pdf  used on input line 3
+27.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[14 <./5notneeded-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Tnotneeded.eps>
+(epstopdf)                    date: 2019-11-18 18:41:28
+(epstopdf)                    size: 24925 bytes
+(epstopdf)             Output file: <Tnotneeded-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-18 18:48:11
+(epstopdf)                    size: 5404 bytes
+(epstopdf)             Command: <epstopdf --outfile=Tnotneeded-eps-converted-to
+.pdf Tnotneeded.eps>
+(epstopdf)             \includegraphics on input line 332.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./Tnotneeded-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tnotneeded-eps-converted-to.pdf, id=110, 421.575pt x 316.18124pt>
+File: Tnotneeded-eps-converted-to.pdf Graphic file (type pdf)
+<use Tnotneeded-eps-converted-to.pdf>
+Package pdftex.def Info: Tnotneeded-eps-converted-to.pdf  used on input line 33
+2.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+[15 <./8notneeded-eps-converted-to.pdf> <./11notneeded-eps-converted-to.pdf>]
+[16 <./Tnotneeded-eps-converted-to.pdf>] (SB.aux) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 15 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 4177 strings out of 492946
+ 59814 string characters out of 3143940
+ 144696 words of memory out of 3000000
+ 7994 multiletter control sequences out of 15000+200000
+ 11590 words of font info for 45 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,9n,40p,738b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/LATEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/LATEX/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><D:/LATEX/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/LATEX/fon
+ts/type1/public/amsfonts/cm/cmmi6.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/LATEX/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/LATEX/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:
+/LATEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/LATEX/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb><D:/LATEX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/LAT
+EX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/LATEX/fonts/type1/public/amsfo
+nts/cm/cmti12.pfb>
+Output written on SB.pdf (16 pages, 492358 bytes).
+PDF statistics:
+ 182 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
